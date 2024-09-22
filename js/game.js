@@ -12,7 +12,7 @@ const characters = [
   'Three',
   'Mother',
   'Father',
-  'PIG',
+  'Pig',
 ];
 
 const createElement = (tag, className) => {
